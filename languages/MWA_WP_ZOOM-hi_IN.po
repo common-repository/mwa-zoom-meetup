@@ -1,0 +1,701 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MWA Zoom Meetup\n"
+"POT-Creation-Date: 2021-05-27 14:12+0530\n"
+"PO-Revision-Date: 2021-05-27 14:20+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mwa-wp-zoom.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-mwa-wpz-actions.php:75
+msgid "Settings"
+msgstr "समायोजन"
+
+#: admin/class-mwa-wpz-actions.php:78 admin/class-mwa-wpz-menu.php:49
+#: admin/inc/freeeventsall.php:22 admin/inc/freeevntmngr.php:22 admin/inc/freewebiadd.php:22
+#: admin/inc/upgpro.php:16
+msgid "Upgrade To Pro"
+msgstr "प्रो में अपग्रेड"
+
+#: admin/class-mwa-wpz-menu.php:15
+msgid "MWA ZOOM"
+msgstr "MWA ज़ूम"
+
+#: admin/class-mwa-wpz-menu.php:24 admin/inc/tokenmngr.php:149
+msgid "Token Manager"
+msgstr "टोकन प्रबंधक"
+
+#: admin/class-mwa-wpz-menu.php:26
+msgid "Zoom Dashboard"
+msgstr "MWA ज़ूम डैशबोर्ड"
+
+#: admin/class-mwa-wpz-menu.php:28 admin/inc/createmeeting.php:28 admin/inc/createmeeting.php:121
+msgid "Create Meeting"
+msgstr "मीटिंग बनाएँ"
+
+#: admin/class-mwa-wpz-menu.php:31 admin/inc/meetlist.php:20
+msgid "Manage Meeting"
+msgstr "मीटिंग प्रबंधन"
+
+#: admin/class-mwa-wpz-menu.php:34 admin/inc/userlist.php:22
+msgid "Add User & List"
+msgstr "उपयोगकर्ता और सूची जोड़ें"
+
+#: admin/class-mwa-wpz-menu.php:37
+msgid "GCal Event Manager"
+msgstr "गूगल पंचांग प्रबंधक"
+
+#: admin/class-mwa-wpz-menu.php:40 admin/inc/freeeventsall.php:16
+msgid "All Events"
+msgstr "सभी कार्यक्रम"
+
+#: admin/class-mwa-wpz-menu.php:46 admin/inc/vctutorial.php:16
+msgid "Tutorial"
+msgstr "शिक्षण"
+
+#: admin/inc/createmeeting.php:34 admin/inc/tokenmngr.php:164
+msgid "Help"
+msgstr "मदद"
+
+#: admin/inc/createmeeting.php:34
+msgid "For Create Meeting, First create zoom api id and secret key?"
+msgstr "ज़ूम एपीआई आईडी और गुप्त कुंजी कैसे बनाएं?"
+
+#: admin/inc/createmeeting.php:34 admin/inc/tokenmngr.php:164
+msgid "Click Here"
+msgstr "यहाँ क्लिक करें"
+
+#: admin/inc/createmeeting.php:42
+msgid "Meeting Topic Name"
+msgstr "मीटिंग विषय नाम"
+
+#: admin/inc/createmeeting.php:46
+msgid "Meeting Date"
+msgstr "मीटिंग की तारीख"
+
+#: admin/inc/createmeeting.php:50 public/template/class-mwa-zoom-template.php:92
+#: public/template/class-mwa-zoom-template.php:183
+msgid "Time"
+msgstr "समय"
+
+#: admin/inc/createmeeting.php:50
+msgid "Based on 24 Hour Format"
+msgstr "24 घंटे के प्रारूप पर आधारित"
+
+#: admin/inc/createmeeting.php:51
+msgid "Click here for clock picker"
+msgstr "क्लॉक पिकर के लिए यहां क्लिक करें"
+
+#: admin/inc/createmeeting.php:55
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+#: admin/inc/createmeeting.php:73 admin/inc/createmeeting.php:78 admin/inc/meetlist.php:34
+msgid "Duration"
+msgstr "समयांतराल"
+
+#: admin/inc/createmeeting.php:78
+msgid "Max Time = 40 Minute"
+msgstr "अधिकतम समय = 40 मिनट"
+
+#: admin/inc/createmeeting.php:83 admin/inc/createmeeting.php:109 admin/inc/createmeeting.php:110
+#: admin/inc/createmeeting.php:111
+msgid "Minute"
+msgstr "मिनट"
+
+#: admin/inc/createmeeting.php:83
+msgid "Minutes"
+msgstr "मिनट"
+
+#: admin/inc/createmeeting.php:89 public/template/class-mwa-zoom-template.php:82
+#: public/template/class-mwa-zoom-template.php:173
+msgid "Meeting Password"
+msgstr "मीटिंग का पासवर्ड"
+
+#: admin/inc/createmeeting.php:89
+msgid "Max. Length = 10"
+msgstr "लंबाई = 10"
+
+#: admin/inc/createmeeting.php:93
+msgid "Meeting Description"
+msgstr "मीटिंग विवरण"
+
+#: admin/inc/createmeeting.php:97
+msgid "Upload Document"
+msgstr "दस्तावेज़ अपलोड करें"
+
+#: admin/inc/createmeeting.php:99
+msgid "The uploaded document will be seen only on the meeting information page."
+msgstr "अपलोड किया गया दस्तावेज़ केवल मीटिंग सूचना पृष्ठ पर देखा जाएगा।"
+
+#: admin/inc/createmeeting.php:102
+msgid "Meeting Join Before Host"
+msgstr "मेजबान से पहले बैठक में शामिल हों"
+
+#: admin/inc/createmeeting.php:104
+msgid "Allow participants to join the meeting before the host starts the meeting"
+msgstr "प्रतिभागियों को बैठक शुरू होने से पहले बैठक में शामिल होने की अनुमति दें"
+
+#: admin/inc/createmeeting.php:107
+msgid "Join Before Host Time"
+msgstr "मेजबान से पहले बैठक में शामिल हों"
+
+#: admin/inc/createmeeting.php:113
+msgid "If Join Before Host setting off, Then leave this setting"
+msgstr "अगर जॉइन बिफोर होस्ट सेटिंग ऑफ है, तो इस सेटिंग को छोड़ दें"
+
+#: admin/inc/createmeeting.php:116
+msgid "Mute Upon Entry"
+msgstr "प्रवेश पर म्यूट"
+
+#: admin/inc/createmeeting.php:118
+msgid "Mute participants upon entry"
+msgstr "प्रवेश पर प्रतिभागियों को म्यूट करें"
+
+#: admin/inc/createmeeting.php:122
+msgid "Show All Meetings"
+msgstr "सभी मीटिंग दिखाएं"
+
+#: admin/inc/dashboard.php:27
+msgid "MWA Zoom Dashboard"
+msgstr "MWA ज़ूम डैशबोर्ड"
+
+#: admin/inc/dashboard.php:32
+msgid "Total Meetings"
+msgstr "कुल मीटिंग"
+
+#: admin/inc/dashboard.php:39
+msgid "Here we will count the total meetings"
+msgstr "यहां हम कुल मीटिंग की गिनती करेंगे"
+
+#: admin/inc/dashboard.php:46
+msgid "Today Meetings"
+msgstr "कुल मीटिंग"
+
+#: admin/inc/dashboard.php:53
+msgid "Here we will count the today meetings"
+msgstr "यहां हम आज की मीटिंग की गिनती करेंगे"
+
+#: admin/inc/dashboard.php:60
+msgid "Past Meetings"
+msgstr "पिछली मीटिंग"
+
+#: admin/inc/dashboard.php:67
+msgid "Here we will count the past meetings"
+msgstr "यहां हम पिछली मीटिंग की गणना करेंगे"
+
+#: admin/inc/dashboard.php:76
+msgid "Registered Meetings"
+msgstr "दर्ज मीटिंग"
+
+#: admin/inc/dashboard.php:83
+msgid ""
+"Here we will count the meetings with the settings of view type -  only for registered users"
+msgstr "यहां हम मीटिंग प्रकारों की सेटिंग्स के साथ - केवल पंजीकृत उपयोगकर्ताओं के लिए गणना करेंगे"
+
+#: admin/inc/dashboard.php:90
+msgid "Anyone can join Meetings"
+msgstr "मीटिंग्स में कोई भी शामिल हो सकता है"
+
+#: admin/inc/dashboard.php:97
+msgid "Here we will count the meetings with the settings of view type -  all users"
+msgstr "यहां हम मीटिंग्स को व्यू प्रकार की सेटिंग्स के साथ गिनेंगे - सभी उपयोगकर्ता"
+
+#: admin/inc/dashboard.php:104
+msgid "Total Users"
+msgstr "कुल उपयोगकर्ता"
+
+#: admin/inc/dashboard.php:111
+msgid "Here we will count users which is saved by admin"
+msgstr "यहां हम उन यूजर्स की गिनती करेंगे जो एडमिन द्वारा सेव किए गए हैं"
+
+#: admin/inc/freeeventsall.php:16
+msgid "Google Calender"
+msgstr "गूगल कैलेंडर"
+
+#: admin/inc/freeevntmngr.php:16
+msgid "Google Calendar Event Manager"
+msgstr "गूगल कैलेंडर ईवेंट प्रबंधक"
+
+#: admin/inc/freewebiadd.php:16
+msgid "Add Webinar & List"
+msgstr "उपयोगकर्ता और सूची जोड़ें"
+
+#: admin/inc/meetlist.php:31 public/template/class-mwa-zoom-template.php:77
+#: public/template/class-mwa-zoom-template.php:168
+msgid "Meeting ID"
+msgstr "मीटिंग आईडी"
+
+#: admin/inc/meetlist.php:32
+msgid "Password"
+msgstr "कुंजिका"
+
+#: admin/inc/meetlist.php:33 admin/widget/class-mwa-wpz-widgetbtn.php:54
+msgid "Topic"
+msgstr "विषय"
+
+#: admin/inc/meetlist.php:35
+msgid "DateTime"
+msgstr "दिनांक और समय"
+
+#: admin/inc/meetlist.php:36
+msgid "Shortcode"
+msgstr "छोटे संकेत"
+
+#: admin/inc/meetlist.php:37
+msgid "View Type"
+msgstr "प्रकार"
+
+#: admin/inc/meetlist.php:38
+msgid "Mail"
+msgstr "मेल भेजे"
+
+#: admin/inc/meetlist.php:39
+msgid "Host"
+msgstr "मेज़बान"
+
+#: admin/inc/meetlist.php:40
+msgid "Join"
+msgstr "शामिल हों"
+
+#: admin/inc/meetlist.php:41
+msgid "File"
+msgstr "दस्तावेज़"
+
+#: admin/inc/meetlist.php:42 admin/inc/tokenmngr.php:218 admin/inc/userlist.php:55
+msgid "Delete"
+msgstr "हटाएं"
+
+#: admin/inc/meetlist.php:67
+msgid "Anyone can join"
+msgstr "मीटिंग्स में कोई भी शामिल हो सकता है"
+
+#: admin/inc/meetlist.php:68
+msgid "Registered Users"
+msgstr "दर्ज मीटिंग"
+
+#: admin/inc/meetlist.php:105
+msgid "All Users"
+msgstr "सभी उपयोगकर्ताओं"
+
+#: admin/inc/meetlist.php:114
+msgid "Email Body"
+msgstr "ईमेल बॉडी"
+
+#: admin/inc/meetlist.php:123 admin/inc/userlist.php:34 admin/inc/userlist.php:51
+msgid "User Name"
+msgstr "उपयोगकर्ता नाम"
+
+#: admin/inc/meetlist.php:124 admin/inc/tokenmngr.php:212 admin/inc/userlist.php:52
+msgid "Email"
+msgstr "ईमेल"
+
+#: admin/inc/meetlist.php:155
+msgid "Send Mail"
+msgstr "मेल भेजे"
+
+#: admin/inc/meetlist.php:158
+msgid "Sending"
+msgstr "भेजना"
+
+#: admin/inc/meetlist.php:160
+msgid "Successfully Sent"
+msgstr "सफलतापूर्वक भेजा"
+
+#: admin/inc/tokenmngr.php:153
+msgid "Add Token"
+msgstr "टोकन जोड़ें"
+
+#: admin/inc/tokenmngr.php:154
+msgid "Manage Token"
+msgstr "टोकन प्रबंधन"
+
+#: admin/inc/tokenmngr.php:164
+msgid "How to create zoom api id and secret key?"
+msgstr "ज़ूम एपीआई आईडी और गुप्त कुंजी कैसे बनाएं?"
+
+#: admin/inc/tokenmngr.php:175 admin/inc/tokenmngr.php:309
+msgid "Account Name"
+msgstr "खाते का नाम"
+
+#: admin/inc/tokenmngr.php:176
+msgid "Enter User Name of Account"
+msgstr "खाता का उपयोगकर्ता नाम दर्ज करें"
+
+#: admin/inc/tokenmngr.php:179 admin/inc/tokenmngr.php:317
+msgid "Zoom Account Email"
+msgstr "खाते का नाम"
+
+#: admin/inc/tokenmngr.php:180
+msgid "Enter Email of Zoom Account"
+msgstr "खाता का उपयोगकर्ता नाम दर्ज करें"
+
+#: admin/inc/tokenmngr.php:183 admin/inc/tokenmngr.php:313
+msgid "Zoom Client ID"
+msgstr "ज़ूम क्लाइंट आईडी"
+
+#: admin/inc/tokenmngr.php:184
+msgid "Enter Zoom Client ID"
+msgstr "ज़ूम क्लाइंट आईडी दर्ज करें"
+
+#: admin/inc/tokenmngr.php:187 admin/inc/tokenmngr.php:321
+msgid "Zoom Client Secret Key"
+msgstr "ज़ूम क्लाइंट सीक्रेट की"
+
+#: admin/inc/tokenmngr.php:188
+msgid "Enter Zoom Client Secret Key"
+msgstr "ज़ूम क्लाइंट सीक्रेट कुंजी दर्ज करें"
+
+#: admin/inc/tokenmngr.php:191
+msgid "Redirect URL ( Save this redirect url into your zoom app )"
+msgstr "रीडायरेक्ट URL (अपने ज़ूम ऐप में इस रीडायरेक्ट यूआरएल को सहेजें)"
+
+#: admin/inc/tokenmngr.php:196 public/template/class-mwa-zoom-template.php:127
+#: public/template/class-mwa-zoom-template.php:217
+msgid "Copied"
+msgstr "कॉपी किया गया"
+
+#: admin/inc/tokenmngr.php:198 public/template/class-mwa-zoom-template.php:67
+#: public/template/class-mwa-zoom-template.php:158
+msgid "Copy"
+msgstr "प्रतिलिपि"
+
+#: admin/inc/tokenmngr.php:201 admin/inc/userlist.php:42
+msgid "Save"
+msgstr "सहेजें"
+
+#: admin/inc/tokenmngr.php:210
+msgid "S.N"
+msgstr "क्रमांक"
+
+#: admin/inc/tokenmngr.php:211
+msgid "Owner"
+msgstr "मालिक"
+
+#: admin/inc/tokenmngr.php:213
+msgid "Zoom API ID"
+msgstr "जूम एपीआई आईडी"
+
+#: admin/inc/tokenmngr.php:214
+msgid "Zoom Secret Key"
+msgstr "जूम सीक्रेट की"
+
+#: admin/inc/tokenmngr.php:215
+msgid "Token"
+msgstr "टोकन"
+
+#: admin/inc/tokenmngr.php:216 admin/inc/tokenmngr.php:326 admin/inc/userlist.php:53
+msgid "Status"
+msgstr "स्थिति"
+
+#: admin/inc/tokenmngr.php:217 admin/inc/userlist.php:54
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: admin/inc/tokenmngr.php:279
+msgid "Generated"
+msgstr "जनरेट किया गया"
+
+#: admin/inc/tokenmngr.php:302
+msgid "Edit Information"
+msgstr "सूचना संपादित करें"
+
+#: admin/inc/tokenmngr.php:328 admin/inc/userlist.php:86
+msgid "Active"
+msgstr "सक्रिय"
+
+#: admin/inc/tokenmngr.php:329 admin/inc/userlist.php:87
+msgid "Deactive"
+msgstr "निष्क्रिय"
+
+#: admin/inc/tokenmngr.php:334
+msgid "Update"
+msgstr "अपडेट करें"
+
+#: admin/inc/upgpro.php:21
+msgid "All Premium Features"
+msgstr "सभी प्रीमियम सुविधाएँ"
+
+#: admin/inc/upgpro.php:23
+msgid "Compatible with WordPress"
+msgstr "वर्डप्रेस के साथ संगत"
+
+#: admin/inc/upgpro.php:24
+msgid "Provides integration of Zoom on WordPress"
+msgstr "वर्डप्रेस पर ज़ूम का एकीकरण प्रदान करता है"
+
+#: admin/inc/upgpro.php:25
+msgid "Compatible with Zoom API"
+msgstr "ज़ूम एपीआई के साथ संगत"
+
+#: admin/inc/upgpro.php:26
+msgid "Has admins area to manage the meetings"
+msgstr "मीटिंग में शामिल होने के लिए यहां क्लिक करें"
+
+#: admin/inc/upgpro.php:27
+msgid "Display your Zoom meeting & link them on WordPress posts & page using shortcode"
+msgstr "अपनी ज़ूम मीटिंग प्रदर्शित करें और शोर्ट कोड का उपयोग करके उन्हें वर्डप्रेस पोस्ट और पेज पर लिंक करें"
+
+#: admin/inc/upgpro.php:28
+msgid "Can create schedule meeting & recurring meeting"
+msgstr "शेड्यूल मीटिंग और आवर्ती मीटिंग बना सकते हैं"
+
+#: admin/inc/upgpro.php:29
+msgid "Export meeting to Google Calendar, Outlook & Yahoo"
+msgstr "गूगल कैलेंडर, आउटलुक और याहू को निर्यात बैठक"
+
+#: admin/inc/upgpro.php:30
+msgid "Display Zoom meeting with calendar view for admin"
+msgstr "व्यवस्थापक के लिए कैलेंडर दृश्य के साथ ज़ूम मीटिंग प्रदर्शित करें"
+
+#: admin/inc/upgpro.php:31
+msgid "Display Zoom meeting events with calendar view for admin"
+msgstr "व्यवस्थापक के लिए कैलेंडर दृश्य के साथ ज़ूम मीटिंग प्रदर्शित करें"
+
+#: admin/inc/upgpro.php:32
+msgid "Display your Zoom meeting using widget"
+msgstr "विजेट का उपयोग करके अपनी ज़ूम मीटिंग प्रदर्शित करें"
+
+#: admin/inc/upgpro.php:33
+msgid "Display upcoming meeting via countdown timer"
+msgstr "उलटी गिनती घड़ी के माध्यम से आगामी बैठक प्रदर्शित करें"
+
+#: admin/inc/upgpro.php:34
+msgid "Can save recording of meeting"
+msgstr "मिलने की रिकॉर्डिंग को बचा सकता है"
+
+#: admin/inc/upgpro.php:35
+msgid "JOIN DIRECTLY VIA WEB BROWSER FROM FRONTEND"
+msgstr "प्रत्यक्ष रूप से वेब ब्राउज़र से संपर्क करें"
+
+#: admin/inc/upgpro.php:36
+msgid "JOIN meeting on your site via Meetarea feature"
+msgstr "मिलने का क्षेत्र फ़ीचर के माध्यम से अपनी साइट पर बैठक को शामिल करें"
+
+#: admin/inc/upgpro.php:37
+msgid ""
+"Add dynamic page/post url for specific meeting when send mail of meeting details to selected "
+"users"
+msgstr ""
+"विशिष्ट मीटिंग के लिए डायनामिक पृष्ठ / पोस्ट url जोड़ें जब चयनित उपयोगकर्ताओं को मीटिंग विवरण का मेल भेजें"
+
+#: admin/inc/upgpro.php:38
+msgid "Add multiple token for meetings For create meeting at same time"
+msgstr "मीटिंग्स के लिए एकाधिक टोकन जोड़ें एक ही समय में मीटिंग बनाने के लिए"
+
+#: admin/inc/upgpro.php:39
+msgid "Meeting is protected with end to end encryption setting"
+msgstr "मीटिंग एंड-टू-एंड एन्क्रिप्शन सेटिंग के साथ सुरक्षित है"
+
+#: admin/inc/upgpro.php:40
+msgid "Multiple google account can manage for add meeting to google calendar"
+msgstr "एकाधिक गूगल खाता गूगल कैलेंडर में जोड़ने की बैठक के लिए प्रबंधन कर सकता है"
+
+#: admin/inc/upgpro.php:41
+msgid "Add meeting to google calendar event"
+msgstr "गूगल कैलेंडर ईवेंट में मीटिंग जोड़ें"
+
+#: admin/inc/upgpro.php:42
+msgid "Add and manage users for sending mail to send meeting url"
+msgstr "URL भेजने के लिए मेल भेजने के लिए उपयोगकर्ताओं को जोड़ें और प्रबंधित करें"
+
+#: admin/inc/upgpro.php:43
+msgid "Start Meeting Recording as local or cloud with recording setting"
+msgstr "रिकॉर्डिंग सेटिंग के साथ स्थानीय या क्लाउड के रूप में रिकॉर्डिंग शुरू करें"
+
+#: admin/inc/upgpro.php:44
+msgid "Add & manage webinar coming soon"
+msgstr "वेबिनार और वेबिनार का प्रबंधन जल्द आ रहा है"
+
+#: admin/inc/upgpro.php:45
+msgid "Can view all recorded meeting list at your local system"
+msgstr "अपने स्थानीय सिस्टम पर सभी रिकॉर्ड की गई मीटिंग सूची देख सकते हैं"
+
+#: admin/inc/upgpro.php:46
+msgid ""
+"Admin has full control for check the status of live meeting, past meeting, total meeting, "
+"registered meetings, purchased meeting & all users using Dashboard MENU"
+msgstr ""
+"व्यवस्थापन का लाइव मीटिंग, पिछली मीटिंग, कुल मीटिंग, पंजीकृत मीटिंग, खरीदी गई मीटिंग और डैशबोर्ड मेन्यू का "
+"उपयोग करने वाले सभी उपयोगकर्ताओं की स्थिति की जाँच करने का पूर्ण नियंत्रण है"
+
+#: admin/inc/upgpro.php:54
+msgid "Go Pro"
+msgstr "प्रीमियम पर जाओ"
+
+#: admin/inc/upgpro.php:55
+msgid "Demo"
+msgstr "डेमो"
+
+#: admin/inc/upgpro.php:56
+msgid "Documentation"
+msgstr "समयांतराल"
+
+#: admin/inc/userlist.php:22
+msgid "Manage Yourself"
+msgstr "अपने आप प्रबंधित करें"
+
+#: admin/inc/userlist.php:38
+msgid "User Email"
+msgstr "उपयोगकर्ता ईमेल"
+
+#: admin/inc/userlist.php:101
+msgid "Delete All"
+msgstr "सब हटाएं"
+
+#. Plugin Name of the plugin/theme
+#: admin/widget/class-mwa-wpz-widget.php:19
+msgid "Video Conferencing - Zoom Meetings"
+msgstr "वीडियो कॉन्फ्रेंसिंग - ज़ूम मीटिंग"
+
+#: admin/widget/class-mwa-wpz-widget.php:55
+msgid "Meeting Title"
+msgstr "मीटिंग का शीर्षक"
+
+#: admin/widget/class-mwa-wpz-widget.php:62
+msgid "Meeting Title : Show/Hide"
+msgstr "मीटिंग शीर्षक: दिखाएँ / छिपाएँ"
+
+#: admin/widget/class-mwa-wpz-widget.php:67
+msgid "Meeting List"
+msgstr "मीटिंग सूची"
+
+#: admin/widget/class-mwa-wpz-widget.php:84
+msgid "Meeting Info : Show/Hide"
+msgstr "मीटिंग जानकारी: दिखाएँ / छिपाएँ"
+
+#: admin/widget/class-mwa-wpz-widget.php:90
+msgid "No Meeting Found, Please"
+msgstr "कोई मीटिंग नहीं मिली, कृपया"
+
+#: admin/widget/class-mwa-wpz-widget.php:90
+msgid "Create First"
+msgstr "पहले बनाएं"
+
+#: admin/widget/class-mwa-wpz-widgetbtn.php:49
+msgid "Select Meeting from meeting list & click insert button"
+msgstr "मीटिंग सूची से मीटिंग का चयन करें और सम्मिलित करें बटन पर क्लिक करें"
+
+#: admin/widget/class-mwa-wpz-widgetbtn.php:60
+msgid "Insert Zoom Meeting Shortcode"
+msgstr "MWA ज़ूम मीटिंग शोर्ट सम्मिलित करें"
+
+#: public/template/class-mwa-zoom-template.php:58 public/template/class-mwa-zoom-template.php:139
+msgid "Zoom Meeting Information"
+msgstr "जूम मीटिंग की जानकारी"
+
+#: public/template/class-mwa-zoom-template.php:65 public/template/class-mwa-zoom-template.php:156
+msgid "Label"
+msgstr "नाम"
+
+#: public/template/class-mwa-zoom-template.php:66
+msgid "Meeting Info"
+msgstr "मीटिंग की जानकारी"
+
+#: public/template/class-mwa-zoom-template.php:72 public/template/class-mwa-zoom-template.php:163
+msgid "Meeting Topic"
+msgstr "मीटिंग विषय"
+
+#: public/template/class-mwa-zoom-template.php:87 public/template/class-mwa-zoom-template.php:178
+msgid "Date"
+msgstr "तारीख"
+
+#: public/template/class-mwa-zoom-template.php:97 public/template/class-mwa-zoom-template.php:188
+msgid "Join URL"
+msgstr "URL से जुड़ें"
+
+#: public/template/class-mwa-zoom-template.php:98
+msgid "Click here to join the meeting URL"
+msgstr "मीटिंग में शामिल होने के लिए यहां क्लिक करें"
+
+#: public/template/class-mwa-zoom-template.php:103
+#: public/template/class-mwa-zoom-template.php:194
+msgid "Join via Web Browser"
+msgstr "वेब ब्राउज़र के माध्यम से जुड़ें"
+
+#: public/template/class-mwa-zoom-template.php:107
+#: public/template/class-mwa-zoom-template.php:198
+msgid "JOIN"
+msgstr "शामिल हों"
+
+#: public/template/class-mwa-zoom-template.php:117
+#: public/template/class-mwa-zoom-template.php:207
+msgid "Document"
+msgstr "दस्तावेज़"
+
+#: public/template/class-mwa-zoom-template.php:118
+#: public/template/class-mwa-zoom-template.php:208
+msgid "Download"
+msgstr "डाउनलोड"
+
+#: public/template/class-mwa-zoom-template.php:147
+msgid "For join the meeting please"
+msgstr "कृपया मीटिंग में शामिल हों"
+
+#: public/template/class-mwa-zoom-template.php:147
+msgid "Register and join"
+msgstr "रजिस्टर करें और जुड़ें"
+
+#: public/template/class-mwa-zoom-template.php:157
+msgid "Meeting"
+msgstr "मीटिंग"
+
+#: public/template/class-mwa-zoom-template.php:189
+msgid "Click here to join the meeting"
+msgstr "मीटिंग में शामिल होने के लिए यहां क्लिक करें"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/mwa-zoom-meetup/"
+msgstr "https://wordpress.org/plugins/"
+
+#. Description of the plugin/theme
+msgid ""
+"Video Conferencing - Zoom Meetings is capable to manage Zoom Meetings, Video Conferencing, "
+"Schedule Video Conferences and Record meetings directly from WordPress Dashboard"
+msgstr ""
+"प्लगइन ज़ूम डैशिंग्स, वीडियो कॉन्फ्रेंसिंग, वीडियो कॉन्फ्रेंसिंग और वर्डप्रेस डैशबोर्ड से सीधे रिकॉर्ड बैठकों का प्रबंधन "
+"करने में सक्षम है"
+
+#. Author of the plugin/theme
+msgid "MyWebApp"
+msgstr "MyWebApp"
+
+#. Author URI of the plugin/theme
+msgid "https://mywebapp.in/"
+msgstr "http://mywebapp.in/"
+
+#~ msgid "Create"
+#~ msgstr "सृजन करना"
+
+#~ msgid "MWA Zoom Meetup"
+#~ msgstr "MWA ज़ूम मिलना"
+
+#~ msgid ""
+#~ "MWA Zoom Meetup is video meeting plugin. You can easy manage create,delete meeting and add "
+#~ "participants,user easily.create token and manage token, copy and paste the shortcode to "
+#~ "post/page for fast view of meeting."
+#~ msgstr ""
+#~ "इस प्लगइन में, आप मीटिंग बना सकते हैं, प्रतिभागियों को हटा सकते हैं और आसानी से प्रतिभागियों को जोड़ सकते हैं। "
+#~ "बैठक के तेज दृश्य के लिए पोस्ट / पृष्ठ पर शोर्ट और पेस्ट सेट करें और पेस्ट करें"
+
+#~ msgid "MWA WP Zoom"
+#~ msgstr "MWA WP ज़ूम"
+
+#, fuzzy
+#~| msgid "Deactive"
+#~ msgid "Dective"
+#~ msgstr "निष्क्रिय"

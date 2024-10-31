@@ -1,0 +1,85 @@
+=== Video Conferencing - Zoom Meetings ===
+
+== Archived Changelog Entries ==
+
+This file contains older changelog entries, so we can keep the size of the standard WordPress readme.txt file reasonable.
+For the latest changes, please see the "Changelog" section of the [readme.txt file](https://plugins.svn.wordpress.org/mwa-zoom-meetup/trunk/readme.txt).
+
+= 2.5 =
+*Release Date - 09 March 2021*
+* Tested upto Wordpress 5.7
+* Minor bug fixed
+
+= 2.4 =
+*Release Date - 09 March 2021*
+* Updated banner and logo images
+
+= 2.3 =
+*Release Date - 06 March 2021*
+* Updated code for more security
+* Minor Bug Fixed
+* Update bootstrap library
+
+= 2.2 =
+*Release Date - 04 March 2021*
+* Updated code for more security
+* Tested upto Wordpress 5.6.2
+
+= 2.1 =
+*Release Date - 18 Feburary 2021*
+* Updated readme file.
+* Added changelog file.
+* Renew tags.
+
+= 2.0 =
+*Release Date - 18 Feburary 2021*
+* Bug fixed undefined variables of new setting at usermail at token manager
+
+= 1.9 =
+*Release Date - 17 Feburary 2021*
+* Minor bug fixed
+
+= 1.8 =
+*Release Date - 17 Feburary 2021*
+* Can create meeting with zoom pro account
+* Add Setting - If added zoom premimum account then we can add meeting more than 40 minute.
+* Update language file - Hindi
+* Tested upto Wordpress 5.6.1
+
+= 1.7 =
+* Update tags
+* Update banner & description
+* Add Setting - Mute participants upon entry [Create Meeting Menu].
+
+= 1.6 =
+* Add join before host setting for add meeting
+* Update upgrade to pro link
+* Update tags
+* Update screenshot of create meeting with join before host setting
+
+= 1.5 =
+* Update upgrade to pro page, banner
+* Add screenshot with support of elementor plugin
+* Renew plugin title
+
+= 1.4 =
+* Add upgrade to pro menu and features
+* Renew tags, logo, banner
+* Tested upto Wordpress 5.6
+
+= 1.3 =
+* Add token manager delete button - for delete token in token manager page.
+* Add End To End Encryption mode on - for secure meetings.
+
+= 1.2 =
+* ADD URI at plugin installer page.
+* Add Agenda setting in create meeting menu.
+* Add Clock Picker for create meeting.
+* Update Translator file.
+
+= 1.1 =
+* Added Screenshots works like plugin manual guide.
+* Update plugin description.
+
+= 1.0 =
+* Initial Version
